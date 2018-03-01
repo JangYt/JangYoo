@@ -1,0 +1,5 @@
+public Class Jang{
+  public static void main(string[] args){
+    的的System.out.println（ “我使用了GitHub”）;
+  }
+}
